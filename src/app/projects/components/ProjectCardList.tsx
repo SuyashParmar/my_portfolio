@@ -41,7 +41,7 @@ const data: Project[] = [
     description:
       "Made a chatbot application which gives answers about myself. Used Vector embeddings to store custom data.",
     techStack: ["Next JS", "Datastax", "TailwindCSS", "Framer Motion"],
-    link: "https://ai-portfolio-pi.vercel.app/",
-    source: "https://github.com/sSuyashg/ai_portfolio",
+    link: "",
+    source: "",
   },
 ];
