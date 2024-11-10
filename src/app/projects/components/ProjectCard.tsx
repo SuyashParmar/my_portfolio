@@ -45,7 +45,7 @@ const ProjectCard = ({
               {title}
             </h1>
           </Link>
-          <p className={`mt-2 text-sm dark:text-[#D1D5DB] ${inter}`}>
+          <p className={`text-xs mt-2 dark:text-[#D1D5DB] ${inter}`}>
             {description}
           </p>
         </div>

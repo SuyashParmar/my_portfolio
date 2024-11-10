@@ -3,20 +3,15 @@ import { Link } from "@radix-ui/themes";
 
 const Avatar = () => {
   return (
-    <Link
-      href="https://instagram.fdel25-1.fna.fbcdn.net/v/t51.2885-19/461321812_2924875337688284_6768627478489554162_n.jpg?_nc_ht=instagram.fdel25-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=ULurNJpsRRkQ7kNvgHDePkq&_nc_gid=5dd24c69bab24ca5a9adff40b6931c48&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AYC3oHTVQe_hGui7_jWbh4AOURoc_rpgDRaJ7Mz1kzNJwg&oe=6732F74A&_nc_sid=7a9f4b"
-      target="_blank"
-    >
       <img
-        src="https://media.licdn.com/dms/image/D4E03AQH9beqf_Pj6fw/profile-displayphoto-shrink_400_400/0/1726139553548?e=1736380800&v=beta&t=gVFn0P8g1F2sd5Ly9_KeY6dXhfJiFSgGCynw_fCQTkc"
+        src="https://media.licdn.com/dms/image/v2/D4E03AQH9beqf_Pj6fw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726139553564?e=1736985600&v=beta&t=xH7cnQJ5L-f7RSwyestLp0CXJ_8B0KA1ul17vr7i_sY"
         alt="Suyash Parmar"
         style={{
-          width: "40px",
-          height: "40px",
+          width: "200px",
+          height: "200px",
           borderRadius: "50%",
         }}
       />
-    </Link>
   );
 };
 

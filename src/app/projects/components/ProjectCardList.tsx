@@ -36,12 +36,12 @@ const data: Project[] = [
     source: "https://github.com/SuyashParmar/Notion-Clone",
   },
   {
-    logo: "/aiportfolio.jpg",
-    title: "AI Portfolio",
+    logo: "/codepen.svg",
+    title: "CodePen",
     description:
-      "Made a chatbot application which gives answers about myself. Used Vector embeddings to store custom data.",
-    techStack: ["Next JS", "Datastax", "TailwindCSS", "Framer Motion"],
-    link: "",
-    source: "",
+      "Created a CodePen clone that enables users to write, edit, and preview code snippets in real-time, providing an interactive environment for front-end development directly in the browser.",
+    techStack: ["React JS", "HTML", "CSS", "JavaScript"],
+    link: "https://code-pen-kappa.vercel.app",
+    source: "https://github.com/SuyashParmar/CodePen",
   },
 ];
