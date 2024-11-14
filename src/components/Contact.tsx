@@ -32,7 +32,7 @@ const Contact = () => {
 
     setIsEmailSending(true);
     try {
-      const response = await axios.post<ApiResponse>("/api/send-email", {
+      const response = await axios.post<ApiResponse>("https://pemail.vercel.app/sendemail", {
         email,
         message,
       });
