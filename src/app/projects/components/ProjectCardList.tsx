@@ -44,4 +44,23 @@ const data: Project[] = [
     link: "https://code-pen-kappa.vercel.app",
     source: "https://github.com/SuyashParmar/CodePen",
   },
+  {
+    logo: "/codepen.svg",
+    title: "2048 Game",
+    description:
+      "Developed a 2048 game using HTML, CSS, and JavaScript in React, where players combine numbered tiles to reach the 2048 tile. The game features smooth animations, a responsive design, and intuitive controls, offering an engaging and interactive experience.",
+    techStack: ["HTML", "CSS", "JavaScript"],
+    link: "https://2048-game-beta.vercel.app/",
+    source: "https://github.com/SuyashParmar/2048-Game",
+  },
+  {
+    logo: "/codepen.svg",
+    title: "2048 Game",
+    description:
+      "Developed a 2048 game using HTML, CSS, and JavaScript in React, where players combine numbered tiles to reach the 2048 tile. The game features smooth animations, a responsive design, and intuitive controls, offering an engaging and interactive experience.",
+    techStack: ["HTML", "CSS", "JavaScript"],
+    link: "https://2048-game-beta.vercel.app/",
+    source: "https://github.com/SuyashParmar/2048-Game"
+
+  }
 ];
